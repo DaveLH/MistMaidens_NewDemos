@@ -3,17 +3,17 @@
 # Additions by Dave Hardenbrook
 
 ### Unity ###
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStore/
-Assets/AssetStoreTools/
-Assets/ExampleAssets/
-Assets/Readme*
-Assets/AdventureCreator/
-Assets/Procedural Worlds/
+*/[Ll]ibrary/
+*/[Tt]emp/
+*/[Oo]bj/
+*/[Bb]uild/
+*/[Bb]uilds/
+*/Assets/AssetStore/
+*/Assets/AssetStoreTools/
+*/Assets/ExampleAssets/
+*/Assets/Readme*
+*/Assets/AdventureCreator/
+*/Assets/Procedural Worlds/
 
 # Visual Studio cache directory
 .vs/
