@@ -8,8 +8,9 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-Assets/AssetStoreTools*
-Assets/ExampleAssets*
+Assets/AssetStore/
+Assets/AssetStoreTools/
+Assets/ExampleAssets/
 Assets/Readme*
 Assets/AdventureCreator/
 Assets/Procedural Worlds/
